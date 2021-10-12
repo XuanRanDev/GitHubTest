@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG,"This is a test Pull requests");
         Log.d(TAG,"This is a test Pull requests");
         Log.d(TAG,"This is a test Pull requests");
+        Log.d(TAG,"This is a test Pull requests");
     }
 }
